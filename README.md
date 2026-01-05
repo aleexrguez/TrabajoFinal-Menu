@@ -111,17 +111,6 @@ Este enfoque permitió:
 - Escalabilidad
 - Actualizaciones rápidas del proyecto
 
-## 📈 Aprendizajes y competencias demostradas
-
-Este proyecto demuestra:
-- Desarrollo full-stack
-- Trabajo en equipo
-- Organización de proyectos grandes
-- Uso de bases de datos relacionales
-- Arquitectura web real
-- Iniciativa y autonomía
-- Capacidad para llevar un proyecto de principio a fin
-
 ## 🔮 Posibles mejoras futuras
 
 - Gestión de usuarios con roles (admin, gerente, empleado)
